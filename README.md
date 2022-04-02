@@ -47,4 +47,4 @@ Notes:
 ### Others
 * @: ctrl + shift + Q
 * <: ctrl + alt + Z
-* >: ctrl + alt + X
+* \>: ctrl + alt + X
