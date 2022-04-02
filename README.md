@@ -12,7 +12,7 @@ This is a custom keyboard layout to use on Windows suited to my needs of using c
 * Map "<" and ">" to ctrl + alt + Z/X, to imitate the behaviour of the latinoamerican spanish layout I use on Linux.
 
 
-##Added characteres
+## Added characteres
 ### Currencies
 * ₩: ctrl + shift + W
 * €: ctrl + shift + E
